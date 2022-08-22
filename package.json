@@ -1,0 +1,22 @@
+{
+  "name": "newfetchapiweather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krauseangelique/newFetchAPIweather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krauseangelique/newFetchAPIweather/issues"
+  },
+  "homepage": "https://github.com/krauseangelique/newFetchAPIweather#readme",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
